@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+A basic flutter project in which you can roll a dice and get the numbers
 
 ## Getting Started
 
